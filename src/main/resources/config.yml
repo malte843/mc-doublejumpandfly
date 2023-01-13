@@ -1,0 +1,24 @@
+prefix: "&6&lDoubleJump &7"
+msgNoPerm: "{0}&cYou dont have Permission to do that"
+msgFlyOnSelf: "{0}Fly is now &aenabled"
+msgFlyOffSelf: "{0}Fly is now &cdisabled"
+msgFlyOnOther: "{0}Fly is now &aenabled &7for &a{1}"
+msgFlyOffOther: "{0}Fly is now &cdisabled &7for &c{1}"
+msgFlyOnByOther: "{0}Fly is now &aenabled &7by &a{1}"
+msgFlyOffByOther: "{0}Fly is now &cdisabled &7by &c{1}"
+msgPlayerNotOnline: "{0}The player &c{1} &7is not online"
+msgCantInteractWithYourself: "{0}You cant interact with yourself"
+doubleJumpEnabled: true
+doubleJumpStrength: 1.0
+doubleJumpSound:
+  enabled: true
+  volume: 1.0
+  pitch: 1.2
+doubleJumpPermissionEnabled: false
+doubleJumpPermission: "doublejump.doublejump"
+flyPermissionSelf: "doublejump.fly.self"
+flyPermissionOther: "doublejump.fly.other"
+doubleJumpDisbledWorlds:
+  - Example1
+  - Example2
+  - Example3

@@ -1,0 +1,10 @@
+name: DoubleJumpAndFly
+version: '${project.version}'
+main: de.malte.doublejumpfly.Main
+api-version: 1.13
+authors: [ malte ]
+
+commands:
+  fly:
+    usage: /<fly> [spieler]
+    description: Toggle flight

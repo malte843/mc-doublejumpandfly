@@ -4,6 +4,7 @@ DoubleJump and Fly with everything customizable.
 Should work with every version from 1.13 to 1.19 but tested are only 1.13 and 1.19
 
 Multi World support! You can disable DoubleJump for specific worlds
+
 Multi Server support! You can also disable DoubleJump completely
 
 ## Config:
